@@ -14,7 +14,11 @@ My task as a Web Developer was to create & design a Simple Website in which a Pa
 4. Creating our own testing accounts with 3rd party for integrations.
 
 Task#3 : Payment Gateway Integration
+<br>
 IDE : VS code
+<br>
 Languages/Frameworks : HTML, CSS & Javascript
+<br>
 Payment Gateway : Razorpay
+<br>
 Website : https://helping-hands-web.netlify.app/
